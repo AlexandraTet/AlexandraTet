@@ -36,7 +36,7 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraTet&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandraTet&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraTet&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
