@@ -1,6 +1,6 @@
 ## Hey! I'm Alexandra! 👋 
 
-### About Me
+### About me
 
 - 🎓 IT & Electronics Student | Aspiring Field Robotics, Cybernetics & Control Engineer.
 - 🚀 Co-founder & Developer at Speachie — building a platform for real-time soft skills training and interview preparation.
@@ -15,7 +15,7 @@
 
 ---
 
-### I Code With
+### I code with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
@@ -33,7 +33,7 @@
 
 ---
 
-### GitHub Stats & Activity
+### GitHub stats & activity
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AlexandraTet&layout=compact&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=c9d1d9" alt="Most Used Languages" height="165" />
