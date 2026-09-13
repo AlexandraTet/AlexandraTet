@@ -10,7 +10,6 @@
   - [ ] Master ROS 2 fundamentals and build custom nodes in C++ and Python.
   - [ ] Learn 3D CAD modeling (Fusion 360 / SolidWorks) for mechanical design.
   - [ ] Publish 3–4 open-source robotics pet-projects.
-  - [ ] Maintain a consistent GitHub contribution.
 - ⚡ Fun fact: I collect Haruki Murakami's books in a matching uniform edition imported from Lithuania.
 
 ---
