@@ -18,7 +18,7 @@
 ### 🛠️ I Code With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,haskell,arduino,git,vscode,docker,matlab&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,haskell,arduino,git,vscode,matlab&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -26,12 +26,12 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraTet&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraTet&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg?palette=pacman" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/AlexandraTet/AlexandraTet/output/github-contribution-grid-snake-dark.svg?palette=pacman" alt="Pacman animation" />
 </p>
