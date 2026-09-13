@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexandraTet/AlexandraTet/output/github-contribution-grid-snake-dark.svg?palette=pacman" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/AlexandraTet/AlexandraTet/output/github-contribution-grid-snake-dark.svg" alt="Pacman animation" />
 </p>
