@@ -3,7 +3,7 @@
 ### 🤖 About Me
 
 - 🎓 IT & Electronics Student | Aspiring Field Robotics, Cybernetics & Control Engineer.
-- 🚀 Co-founder & Developer at Speachie — building an AI-powered platform for real-time soft skills training and interview preparation.
+- 🚀 Co-founder & Developer at Speachie — building a platform for real-time soft skills training and interview preparation.
 - 🛠️ Engineering & R&D: Developing practical hardware/software projects, including Cold Shot optimization and a Hybrid Pipe Cleaning System.
 - 🔬 Passionate about low-level programming, embedded systems, and control algorithms.
 - 🎯 Academic Year Goals (Building a Pre-University Portfolio):
