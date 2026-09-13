@@ -1,4 +1,4 @@
-## Hey! I'm Oleksandra! 👋 
+## Hey! I'm Alexandra! 👋 
 
 ### 🤖 About Me
 
