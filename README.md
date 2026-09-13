@@ -18,7 +18,17 @@
 ### 🛠️ I Code With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,haskell,arduino,git,vscode,matlab&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=haskell" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" />
 </p>
 
 ---
