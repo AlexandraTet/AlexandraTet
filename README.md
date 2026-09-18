@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AlexandraTet&layout=compact&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=c9d1d9" alt="Most Used Languages" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraTet&theme=dark&background=0D1117&hide_border=true&ring=2EA44F&fire=388BFD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=2EA44F&stroke=2EA44F" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraTet&theme=dark&background=0D1117&hide_border=true&ring=2EA44F&fire=388BFD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=2EA44F&stroke=2EA44F&mode=weekly" alt="GitHub Streak" height="165" />
 </p>
 
 ---
